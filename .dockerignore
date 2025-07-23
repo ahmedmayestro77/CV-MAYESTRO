@@ -1,0 +1,15 @@
+# Ignore dependencies and build artifacts
+node_modules
+.next
+
+# Ignore local environment files
+.env.local
+
+# Ignore Git and VSCode folders
+.git
+.vscode
+.cursor
+
+# Ignore OS-specific files
+.DS_Store
+npm-debug.log
